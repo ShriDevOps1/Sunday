@@ -1,1 +1,1 @@
-print("today is sunday")
+print("today is very happy day")
